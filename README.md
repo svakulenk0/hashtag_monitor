@@ -7,3 +7,8 @@ Hashtag monitors for [Vienna](https://svakulenko.ai.wu.ac.at/listen/wien), [New 
 
 * twython
 * espeak
+
+
+## License  
+  
+All work in this repository is under the [MIT license](LICENSE)
